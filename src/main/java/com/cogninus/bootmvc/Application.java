@@ -1,4 +1,4 @@
-package com.rawsanj.bootjsp;
+package com.cogninus.bootmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
