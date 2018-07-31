@@ -6,7 +6,7 @@
 	<groupId>com.cogninus.bootmvc</groupId>
 	<artifactId>spring-boot-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>Spring-Boot-MVC-Demo</name>
 	<description>Demo project for Spring Boot JSP</description>
